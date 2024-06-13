@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on OSS
-- 📫 How to reach me aracelialberto21@gmail.com
+- 📫 How to reach me aalbertov@fcpn.edu.bo
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Videogames
 
